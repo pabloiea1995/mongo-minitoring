@@ -1,0 +1,7 @@
+configuration:
+  mongodb:
+    databases:
+      mainDatabase:
+        name: 
+
+      monitoringDatabase:

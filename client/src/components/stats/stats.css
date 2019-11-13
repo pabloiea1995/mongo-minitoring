@@ -1,0 +1,10 @@
+li {
+    border:solid;
+    padding: 5px;
+    border-color:grey;
+    border-width: 0.5px;
+    list-style-type:none;
+    margin:2px
+
+
+}
